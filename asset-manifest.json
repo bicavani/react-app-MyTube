@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/react-app-MyTube/static/js/main.df3b75d3.chunk.js",
+    "main.js.map": "/react-app-MyTube/static/js/main.df3b75d3.chunk.js.map",
+    "runtime-main.js": "/react-app-MyTube/static/js/runtime-main.e008992c.js",
+    "runtime-main.js.map": "/react-app-MyTube/static/js/runtime-main.e008992c.js.map",
+    "static/js/2.e13e5e76.chunk.js": "/react-app-MyTube/static/js/2.e13e5e76.chunk.js",
+    "static/js/2.e13e5e76.chunk.js.map": "/react-app-MyTube/static/js/2.e13e5e76.chunk.js.map",
+    "index.html": "/react-app-MyTube/index.html",
+    "precache-manifest.f6320e159d6b9ad6bdaa1a786cdf2bd2.js": "/react-app-MyTube/precache-manifest.f6320e159d6b9ad6bdaa1a786cdf2bd2.js",
+    "service-worker.js": "/react-app-MyTube/service-worker.js",
+    "static/js/2.e13e5e76.chunk.js.LICENSE.txt": "/react-app-MyTube/static/js/2.e13e5e76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e008992c.js",
+    "static/js/2.e13e5e76.chunk.js",
+    "static/js/main.df3b75d3.chunk.js"
+  ]
+}
